@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="bg-gray-200 text-center py-4 mt-8">
       <p>Made with ❤️ by <strong>Uditya Pal</strong></p>
       <p>
-        <a href="www.linkedin.com/in/udityapal" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">
+        <a href="https://linkedin.com/in/udityapal" target="_blank" rel="noopener noreferrer" className="text-blue-600 underline">
           LinkedIn
         </a> |{" "}
         <a href="https://github.com/Uditya-Pal-1" target="_blank" rel="noopener noreferrer" className="text-gray-800 underline">
